@@ -6,6 +6,12 @@ name = "pypi"
 [packages]
 ipython = "*"
 jupyterlab = "*"
+pandas = "*"
+matplotlib = "*"
+wordfreq = "*"
+numpy = "*"
+textblob = "*"
+seaborn = "*"
 
 [dev-packages]
 
